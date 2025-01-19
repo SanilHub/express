@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# Sanil
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
